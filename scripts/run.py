@@ -11,7 +11,7 @@ counter = LineOfCodeCounter()
 
 print 'Starting to analyze projects'
 error_count = 0
-for idx, project in enumerate(projects):
+for idx, project in enumerate(projects[21:]):
     print 'Analyzing project %s/%s: %s' % (idx + 1, len(projects), project['name'])
     sys.stdout.flush()
     try:

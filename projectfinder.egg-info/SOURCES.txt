@@ -1,0 +1,7 @@
+projectfinder/__init__.py
+projectfinder/apache.py
+projectfinder/infoenricher.py
+projectfinder.egg-info/PKG-INFO
+projectfinder.egg-info/SOURCES.txt
+projectfinder.egg-info/dependency_links.txt
+projectfinder.egg-info/top_level.txt
